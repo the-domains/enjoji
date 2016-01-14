@@ -1,0 +1,28 @@
+name: Enjoji
+favicon: null
+layout_spectrum: 0.9867941320408136
+typography_spectrum: 0.557743119308725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8446035657543689
+  lightness: 0.3345730621367693
+  saturation: 0.7272941721603274
+  rhythmicContrast: 0.6745745588559657
+purpose: []
