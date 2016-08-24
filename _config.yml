@@ -1,40 +1,40 @@
-favicon: null
-name: Enjoji
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4688507
-  lightness: 0.7223416
-  brandStrength: 0.5042965
+  saturation: 0.566595
+  brandStrength: 0.3002148
+  lightness: 0.8662727
   brandColors:
     - '#FDFDFD'
     - '#030102'
     - '#E9B488'
     - '#6E6577'
     - '#02FCB4'
-  rhythmicContrast: 0.2615467
-typography_spectrum: 0.557743119308725
-layout_spectrum: 1
+  rhythmicContrast: 0.6106337
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: Enjoji
 analytics:
   twitter: null
   google: null
   facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.557743119308725
+layout_spectrum: 1
